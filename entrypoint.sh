@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # init the BLOG if it's empty
 if [ -z "`ls`" ];then
