@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:10.13.0-alpine
 
 # install hexo
 RUN npm install hexo-cli -g
