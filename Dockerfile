@@ -1,5 +1,4 @@
 FROM node:alpine
-MAINTAINER davyyy, dawei.si@qq.com
 
 # install hexo
 RUN npm install hexo-cli -g
