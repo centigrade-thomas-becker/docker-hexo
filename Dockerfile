@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:alpine
 MAINTAINER davyyy, dawei.si@qq.com
 
 # install hexo
