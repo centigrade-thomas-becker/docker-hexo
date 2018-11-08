@@ -7,4 +7,4 @@ if [ -z "`ls`" ];then
 fi
 
 # just call hexo directly
-hexo server@
+hexo server
