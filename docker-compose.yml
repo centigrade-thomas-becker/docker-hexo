@@ -3,6 +3,7 @@ services:
   hexo:
     image: tknxn/hexo
 #   build: .
+    container_name: hexo
     ports:
      - 4000:4000
     volumes:
